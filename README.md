@@ -2,6 +2,9 @@
 
 **X-Touch One Controller für Final Cut Pro**
 
+[![Auf Ko-fi unterstützen](https://img.shields.io/badge/Ko--fi-Unterst%C3%BCtzen-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/dominik_w)
+[![Mit PayPal unterstützen](https://img.shields.io/badge/PayPal-Unterst%C3%BCtzen-003087?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/DominikWeiland)
+
 XFC Bridge ist eine native macOS-Menüleisten-App. Sie verbindet den physischen
 Behringer X-Touch One über CoreMIDI mit Final Cut Pro. Transport, Jogwheel,
 Marker, Clipverschiebung, Timeline-Zoom und Video-Keyframes lassen sich damit
