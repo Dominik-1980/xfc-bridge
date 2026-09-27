@@ -43,8 +43,8 @@ hdiutil convert -quiet "$temporary_rw_dmg" -format UDZO -o "$temporary_dmg"
 hdiutil verify -quiet "$temporary_dmg"
 mv -f "$temporary_dmg" "$output_dmg"
 (
-    cd "$project_dir"
-    shasum -a 256 "dist/$dmg_name"
+    cd "$project_dir/dist"
+    shasum -a 256 "$dmg_name"
 ) > "$project_dir/dist/SHA256SUMS"
 
 print "$output_dmg"
